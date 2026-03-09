@@ -5,7 +5,7 @@ theme: jekyll-theme-primer
 # plugins:
 #   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: 2026 AI+X 大赛 # 增加title 否则报错
+title: 首页 # 增加title 否则报错
 description: 2026 AI+X 大赛 # 增加 description 否则报错
 # repository: georgedonnev2/blog
 
